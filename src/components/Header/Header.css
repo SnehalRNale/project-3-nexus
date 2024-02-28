@@ -1,0 +1,18 @@
+.header-content{
+    min-height: 80vh;
+    background: linear-gradient(rgba(12, 210, 224, 0.7), rgba(112, 20, 20, 0.8)), url("../../images/library.jpg") center/cover no-repeat;
+    flex-direction: column;
+    
+}
+.header-title{
+    font-size: 4.2rem;
+    color: black;
+}
+.header-text{
+    margin-top: -1.8rem;
+    margin-bottom: 2.8rem;
+   
+    max-width: 770px;
+    color: black;
+    font-weight: 600;
+}
